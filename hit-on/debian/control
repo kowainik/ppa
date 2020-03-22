@@ -1,0 +1,19 @@
+Source: hit-on
+Section: haskell
+Priority: optional
+Maintainer: Kowainik <xrom.xkov@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/kowainik/hit-on
+Vcs-Git: https://github.com/kowainik/hit-on
+
+Package: hit-on
+Architecture: all
+Depends: ${misc:Depends}
+Description: Kowainik Git Workflow Helper Tool
+  hit-on provides the hit binary with a convenient command-line
+  interface to improve the interaction with git in a compatible way
+  with the described working methods. It saves time for people who use
+  this workflow on a daily basis, helps beginners expand their insight
+  of the core VCS processes and makes collaboration between team
+  members easier during development.
