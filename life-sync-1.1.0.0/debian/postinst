@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+source <(life --bash-completion-script `which life`)
+life --help
