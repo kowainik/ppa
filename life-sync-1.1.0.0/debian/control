@@ -1,0 +1,15 @@
+Source: life-sync
+Section: haskell
+Priority: optional
+Maintainer: Kowainik <xrom.xkov@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/kowainik/life-sync
+Vcs-Git: https://github.com/kowainik/life-sync
+
+Package: life-sync
+Architecture: all
+Depends: ${misc:Depends}
+Description: Synchronize personal configs across multiple machines
+  life-sync is a CLI tool that makes it easier to synchronize a
+  repository of personal config files across multiple machines.
