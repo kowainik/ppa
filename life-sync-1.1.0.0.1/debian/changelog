@@ -1,0 +1,17 @@
+life-sync (1.1.0.0.1) bionic; urgency=medium
+
+  * Remove postinst script
+
+ -- Kowainik (Ubuntu PPA) <xrom.xkov@gmail.com>  Tue, 25 Mar 2020 18:00:00 +0000
+
+life-sync (1.1.0.0.0) bionic; urgency=medium
+
+  * Fixing postinst script
+
+ -- Kowainik (Ubuntu PPA) <xrom.xkov@gmail.com>  Tue, 25 Mar 2020 15:00:01 +0000
+
+life-sync (1.1.0.0) bionic; urgency=medium
+
+  * See CHANGELOG on GitHub: https://github.com/kowainik/life-sync/blob/master/CHANGELOG.md
+
+ -- Kowainik (Ubuntu PPA) <xrom.xkov@gmail.com>  Tue, 25 Mar 2020 15:00:00 +0000
