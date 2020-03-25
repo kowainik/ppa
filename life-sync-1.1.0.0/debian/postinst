@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 set -e
 source <(life --bash-completion-script `which life`)
 life --help
