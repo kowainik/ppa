@@ -1,0 +1,24 @@
+Source: summoner-cli
+Section: haskell
+Priority: optional
+Maintainer: Kowainik <xrom.xkov@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/kowainik/summoner
+Vcs-Git: https://github.com/kowainik/summoner
+
+Package: summoner-cli
+Architecture: all
+Depends: ${misc:Depends}
+Description: CLI interface to Summoner: tool for scaffolding batteries-included production-level Haskell projects
+  Summoner is a tool for scaffolding fully configured batteries-included
+  production-level Haskell projects.
+
+  Do you want to create a library that is to be uploaded to Hackage/Stackage,
+  that builds with both Cabal and Stack and supports the latest three major GHC
+  versions? Or are you building a production application which uses a custom
+  prelude and has CI with GitHub Actions or Travis Linux and AppVeyors Windows
+  checks? Maybe do you want to play with your idea in a single module without
+  introducing the whole complexity of the Haskell projects? Summoner can help you
+  do all that with minimal effort from you - it can even upload the project to
+  GitHub if you wish!
