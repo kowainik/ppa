@@ -1,0 +1,16 @@
+Source: stan
+Section: haskell
+Priority: optional
+Maintainer: Kowainik <xrom.xkov@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/kowainik/stan
+Vcs-Git: https://github.com/kowainik/stan
+
+Package: stan
+Architecture: all
+Depends: ${misc:Depends}
+Description: Haskell Static Analyser
+  Stan is a command-line tool for analysing Haskell projects and
+  outputting discovered vulnerabilities in a helpful way with possible
+  solutions for detected problems.
