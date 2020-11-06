@@ -18,6 +18,6 @@ life-sync (1.1.0.0.0) bionic; urgency=medium
 
 life-sync (1.1.0.0) bionic; urgency=medium
 
-  * See CHANGELOG on GitHub: https://github.com/kowainik/life-sync/blob/master/CHANGELOG.md
+  * See CHANGELOG on GitHub: https://github.com/kowainik/life-sync/blob/main/CHANGELOG.md
 
  -- Kowainik (Ubuntu PPA) <xrom.xkov@gmail.com>  Tue, 25 Mar 2020 15:00:00 +0000
